@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/Cpp Temperature Converter
+/Cpp Temperature Converter/Cpp Temp.fd30f363/x64/Debug
+/Cpp Temperature Converter/x64/Debug
+/Cpp Temperature Converter/0
